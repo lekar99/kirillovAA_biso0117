@@ -1,0 +1,15 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "practice 2"
+include ':app'
+include ':app:multiactivity'
+include ':app:intentfilter'
+include ':app:toastapp'
+include ':app:notificationapp'
+include ':app:dialog'

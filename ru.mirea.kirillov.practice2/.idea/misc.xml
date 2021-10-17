@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tom-f/Desktop/practice2/app/dialog/src/main/res/layout/activity_main.xml" value="0.353125" />
+        <entry key="..\:/Users/tom-f/Desktop/practice2/app/intentfilter/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/tom-f/Desktop/practice2/app/multiactivity/intentfilter/src/main/res/layout/activity_main.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/tom-f/Desktop/practice2/app/multiactivity/src/main/res/layout/activity_main.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/tom-f/Desktop/practice2/app/multiactivity/src/main/res/layout/activity_second.xml" value="0.3671875" />
+        <entry key="..\:/Users/tom-f/Desktop/practice2/app/notificationapp/src/main/res/layout/activity_main.xml" value="0.353125" />
+        <entry key="..\:/Users/tom-f/Desktop/practice2/app/src/main/res/layout/activity_main.xml" value="0.21739130434782608" />
+        <entry key="..\:/Users/tom-f/Desktop/practice2/app/toastapp/src/main/res/layout/activity_main.xml" value="0.3671875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
