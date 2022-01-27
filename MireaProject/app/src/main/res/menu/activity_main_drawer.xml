@@ -24,6 +24,13 @@
             android:id="@+id/nav_calculator"
             android:icon= "@android:drawable/btn_star"
             android:title="@string/calculator" />
-
+        <item
+            android:id="@+id/preferencesFragment"
+            android:icon="@android:drawable/btn_star"
+            android:title="Greetings preferences"/>
+        <item
+            android:id="@+id/historyFragment"
+            android:icon="@android:drawable/btn_star"
+            android:title="Custom history"/>
     </group>
 </menu>

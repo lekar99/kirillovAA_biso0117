@@ -32,4 +32,14 @@
         android:name="ru.mirea.kirillov.mireaproject.CalculateFragment"
         android:label="@string/calculator"
         tools:layout="@layout/fragment_calculate" />
+    <fragment
+        android:id="@+id/preferencesFragment"
+        android:name="ru.mirea.kirillov.mireaproject.PreferencesFragment"
+        android:label="fragment_preferences"
+        tools:layout="@layout/fragment_preferences" />
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="ru.mirea.kirillov.mireaproject.HistoryFragment"
+        android:label="fragment_history"
+        tools:layout="@layout/fragment_history" />
 </navigation>
